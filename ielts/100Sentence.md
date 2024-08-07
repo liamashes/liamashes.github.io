@@ -1,4 +1,4 @@
-# Sentence 01
+## Sentence 01
 
 There is considerable debate over how we should react if we detect a signal from an alien civilisation.
 
@@ -6,7 +6,7 @@ There is considerable debate over how we should react if we detect a signal from
 
 本句的主干是There is considerable debate...，这句话用到了 there be句型，其中how引导的宾语从句 how we ... alien civilisation作介词over的宾语，该宾语从句中又包含了一个由 if 引导的条件状语从句。
 
-## 表示“争论、争辩”的词
+### 表示“争论、争辩”的词
 
 | 单词          | 词性   | 音标             | 含义                                   | 搭配/记忆                                                    | 使用场景                   | 例句                                                       |
 | ------------- | ------ | ---------------- | -------------------------------------- | ------------------------------------------------------------ | -------------------------- | ---------------------------------------------------------- |
@@ -36,7 +36,7 @@ There is considerable debate over how we should react if we detect a signal from
 | tiff          | n.     | /tɪf/            | （朋友或情侣之间的）争吵               | tiff with sb. 与某人的争吵                                   | 朋友、情侣间的小争吵       | They had a little tiff but made up quickly.                |
 | wrangle       | vi./n. | /ˈræŋɡl/         | （长时间的）争论；（持久而复杂的）争辩 | 无                                                           | 法律、商业                 | The lawyers wrangled over the terms of the contract.       |
 
-## 表示“探索”的词
+### 表示“探索”的词
 
 | 单词        | 词性  | 音标           | 含义                                       | 搭配/记忆                               | 使用场景         | 例句                                                       |
 | ----------- | ----- | -------------- | ------------------------------------------ | --------------------------------------- | ---------------- | ---------------------------------------------------------- |
@@ -55,7 +55,7 @@ There is considerable debate over how we should react if we detect a signal from
 | research    | v./n. | /rɪˈsɜːtʃ/     | 研究；调查                                 | 无                                      | 学术、科学       | She is conducting research on climate change.              |
 | scout       | v./n. | /skaʊt/        | 侦察；搜索                                 | scout for 寻找                          | 探索、发现       | They went to scout for a new location for the office.      |
 
-# Sentence 02
+## Sentence 02
 
 The two world wars, which interrupted the supply of raw material from Japan, also stifled the European silk industry.
 
@@ -63,7 +63,7 @@ The two world wars, which interrupted the supply of raw material from Japan, als
 
 本句的主干是The two world wars stifled the European silk industry，which引导的非限制性定语从句修饰主语The two world wars。
 
-## 与“战争行为”相关的词
+### 与“战争行为”相关的词
 
 | 单词¬¬ | 词性 | 音标 | 含义 | 搭配/记忆 | 使用场景 | 例句 |
 | ------------ | ---- | ------------- | ---- | ---- | ---------- | ------------------------------------------------------ |
@@ -107,5 +107,5 @@ The two world wars, which interrupted the supply of raw material from Japan, als
 | warfare | n.   | /ˈwɔːfeə(r)/ | 战争 | 搭配：guerrilla warfare 游击战 | 军事、历史、策略 | Modern warfare involves advanced technology. |
 | wreck | vt./n. | /rek/ | 破坏；拆毁；失事 | 同根：wrecking n. 失事；遇难船 | 事故、历史、生活 | The shipwreck was discovered on the ocean floor. |
 
-## 与“军事设施、装备”相关的词
+### 与“军事设施、装备”相关的词
 
