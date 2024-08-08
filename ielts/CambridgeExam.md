@@ -124,3 +124,76 @@ Process
 ### How is IELTS Scored
 
 ![images](./images/how-ielts-scored.png)
+
+# 17
+
+## Test1
+
+### Listenning
+
+- 看题时间不是很充裕，只有看题目的时间
+- 声音顺序严格按照题目的顺序
+- 填词一定是语音中出现的词汇
+
+#### part1
+
+- 音频：www.cambridge.org/ELT_IELTS17_t1_audio1
+
+1. litter
+2. dogs
+3. insects
+4. butterflies
+5. wall
+6. island
+7. boots
+8. beginners
+9. spoons
+10. 35
+
+#### part2
+
+- 音频：www.cambridge.org/ELT_IELTS17_t1_audio2
+
+11. A
+12. C
+13. A  -> B
+14. B
+15. A 
+16. B  -> D
+17. B 
+18. C
+19. D 
+20. E
+
+#### part3
+
+- 音频：www.cambridge.org/ELT_IELTS17_t1_audio3
+
+21. B  -> A
+22. B
+23. B
+24. B  -> A
+25. C
+26. C
+27. A
+28. E
+29. F
+30. C
+
+#### part4
+
+- 音频：www.cambridge.org/ELT_IELTS17_t1_audio4
+
+31. puzzle
+32. logic
+33. confusion
+34. meditation
+35. stone
+36. coins
+37. tree
+38. breathing
+39. paper
+40. anxiety
+
+### Reading
+
